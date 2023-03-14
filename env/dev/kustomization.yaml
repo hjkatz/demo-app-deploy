@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/hjkatz/demo-app
-  newTag: c93a85ac8d815a0a6887cf675a58e3cc5ab09532
+  newTag: ee11ac85d2c8a001721bb3208d464a45118e4693
